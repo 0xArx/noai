@@ -53,3 +53,7 @@ I know right? No tokens were harmed in the making of this software.
 ## Contributing
 
 You do. Yourself. No autocomplete.
+
+---
+
+*A throwback to the classic [nocode](https://github.com/kelseyhightower/nocode) by [@kelseyhightower](https://github.com/kelseyhightower). Same energy, different era.*
